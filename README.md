@@ -37,6 +37,9 @@ Ref: <https://opensource.org/license/bsd-3-clause/>
 
 [...]
 
+Note that the contents of this course are best viewed in your browser (or simply from
+this GitHub repository!).
+
 --------
 
 
