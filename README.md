@@ -26,8 +26,9 @@ Ref: <https://www.facebook.com/events/1160053508309185/>
 ## License
 
     (C) 2024 - Anthony Truelove MASc, P.Eng.
-    3-Clause BSD License (see included `LICENSE.md`)
-    Ref: <https://opensource.org/license/bsd-3-clause/>
+
+3-Clause BSD License (see included `LICENSE.md`)  
+Ref: <https://opensource.org/license/bsd-3-clause/>
 
 --------
 
