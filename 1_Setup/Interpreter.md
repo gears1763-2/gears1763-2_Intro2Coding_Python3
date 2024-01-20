@@ -46,11 +46,11 @@ way of [Windows Key] + [R] (or Start Menu --> Run), then enter `cmd`, then click
 
 From the command prompt, invoke
 
-        >python --version
+    >python --version
 
 If you then receive version info, such as
 
-        Python 3.12.1
+    Python 3.12.1
 
 you are set up and ready to go.
 
@@ -60,11 +60,11 @@ you are set up and ready to go.
 
 Try invoking `python` from the command prompt. Then issue
 
-        >>> print("\nPython works!\n")
+    >>> print("\nPython works!\n")
 
 followed by
 
-        >>> exit()
+    >>> exit()
 
 Can you guess what's happening here?
 
@@ -88,7 +88,7 @@ or
 
 If you get output that looks something like
 
-        Python 3.XX.XX
+    Python 3.XX.XX
 
 then you already have a Python interpreter installed. If not, then there should be 
 Python packages available for your distribution. Refer to the package manager 
