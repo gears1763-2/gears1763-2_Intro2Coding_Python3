@@ -96,3 +96,10 @@ because it indicates that a roughly 80% fluency in a given language can be achie
 identifying and focussing on learning the "core" 20% that is used over and over again by
 native speakers. **This course exploits the Pareto Principle by focussing on the "core"
 of Python, which is taken to be the Python Standard Library**.
+
+--------
+
+
+## References
+
+Python Logo (CC BY-SA 4.0). Ref: <https://commons.wikimedia.org/wiki/File:Python_logo_51.svg>
