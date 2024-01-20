@@ -4,12 +4,14 @@
     github: gears1763-2
 
 
-##  0 - Introduction
+## 0 - Introduction
 
 --------
 
 
 ## Welcome!
+
+![Python Logo (Ref: <https://commons.wikimedia.org/wiki/File:Python_logo_51.svg>)](Python_logo_51.png)
 
 Welcome to Intro to Coding (getting started with Python 3).  
 
