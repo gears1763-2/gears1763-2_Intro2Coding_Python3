@@ -37,3 +37,21 @@ Ref: <https://www.facebook.com/events/1160053508309185/>
 [...]
 
 --------
+
+
+## Key Features
+
+    * [...]
+
+--------
+
+
+## Continued Learning
+
+If you have enjoyed this course and would like to continue your Python learning 
+journey, then the Python Essentials 1 and 2 courses (as offered by the Python Institute)
+are highly recommended. These courses are free, open, online, and entirely
+self-directed.
+
+Python Essentials 1: <https://pythoninstitute.org/python-essentials-1>  
+Python Essentials 2: <https://pythoninstitute.org/python-essentials-2>

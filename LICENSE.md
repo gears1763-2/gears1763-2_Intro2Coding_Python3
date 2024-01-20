@@ -1,6 +1,7 @@
 # Intro to Coding (getting started with Python 3)
 
-    (C) 2024 - Anthony Truelove MASc, P.Eng. 
+    (C) 2024 - Anthony Truelove MASc, P.Eng.
+    github: gears1763-2
 
 --------
 
