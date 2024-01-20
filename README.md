@@ -41,7 +41,7 @@ Ref: <https://www.facebook.com/events/1160053508309185/>
 
 ## Key Features
 
-    * [...]
+  * [...]
 
 --------
 
