@@ -35,10 +35,23 @@ Ref: <https://opensource.org/license/bsd-3-clause/>
 
 ## Contents
 
-[...]
+In this course repository, you should find this `README.md`, a `LICENSE.md`, and the 
+following sub-directories
 
-Note that the contents of this course are best viewed in your browser (or simply from
-this GitHub repository!).
+  * `0_Introduction/` - Provides a course introduction, including defining the goals 
+    and approach.
+  
+  * `1_Setup` - Provides instructions on how to get set up with a Python interpreter and 
+    editor. Also speaks to the intended workflow to be applied throughout the course.
+  
+  * `2_Hello_World` - Provides the classical and to-be-expected Hello World introduction
+    to writing and executing your first Python script.
+  
+  * [...]
+
+Note that the contents of this course are best viewed in your browser (in fact, directly 
+from within this GiHub repository!). The intent is that all you should need to interact
+with are the provided Markdown (`.md`) and Python (`.py`) files.
 
 --------
 
