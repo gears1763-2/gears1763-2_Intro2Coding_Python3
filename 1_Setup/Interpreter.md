@@ -56,7 +56,7 @@ you are set up and ready to go.
 
 ![Python_Windows_interpreter_test](Python_Windows_interpreter_test.png)
 
-## Minimal Working Example
+### Minimal Working Example
 
 Try invoking `python` from the command prompt. Then issue
 
