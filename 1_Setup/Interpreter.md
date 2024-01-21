@@ -75,7 +75,7 @@ Can you guess what's happening here?
 
 ## Linux Installation
 
-For those of you who are using Linux, thank you =P.  
+For those of you who are using Linux, thank you. =P  
 
 For most popular Linux distributions, Python comes pre-installed (which means you're 
 probably already set up!). To test this out, you can invoke
