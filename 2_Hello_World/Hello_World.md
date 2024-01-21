@@ -16,7 +16,7 @@ is the classical Hello World. That is, we simply want the computer to print out 
 statement "Hello, world!".  
 
 To begin, create a folder on your desktop (you can call it whatever you want). Be sure 
-to have the folder open to follow along.  
+to have the folder open in your file explorer to follow along.  
 
 Next, open your editor, create a new file, and save it to your folder using the filename 
 `hello_world.py`. Although this file is currently empty, it should exist in your folder 
