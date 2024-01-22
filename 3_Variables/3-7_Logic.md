@@ -56,10 +56,11 @@ which is `True` if either `type(x) == int` is `True` or `x > 10` is `True`.
 Suppose instead that we need `x` to *both* (a) *not* be an integer *and* (b) be greater 
 than 10. This can be expressed as 
 
-    not (type(x) == int) and (x > 10)
+    (not (type(x) == int)) and (x > 10)
 
 Using `and`, `or`, and `not`, you can compose complex logical statements from any
-number of simple logical statements.  
+number of simple logical statements (using parentheses `()` to keep the grouping 
+unambiguous).  
 
 However, in composing such complex logic it is important to understand the logical 
 conventions for `and`, `or`, and `not`, and this can be illustrated by way of truth
@@ -134,8 +135,8 @@ complex logic, try to use the provided truth tables to anticipate the outcome (i
 
 ## Consolidation 
 
-From this not-so-quick lesson (sorry, but it's important!), you should have picked up
-the following bits of knowledge:  
+From this not-so-quick lesson (sorry, but it's really important!), you should have
+picked up the following bits of knowledge:  
 
   * The Boolean (`bool`) type exists in Python, and it is always either `True` or `False`.
   
@@ -143,5 +144,6 @@ the following bits of knowledge:
     operations.
   
   * You can compose complex logical statements from simple ones using the key words `and`,
-    `or`, and `not`.
+    `or`, and `not`. The logical behaviour of this follows the conventions laid out in 
+    the truth tables.
 
