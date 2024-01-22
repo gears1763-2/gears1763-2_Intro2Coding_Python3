@@ -53,6 +53,10 @@ following sub-directories
   * `4_Structures/` - Provides a treatment of some of the key data structures (roughly
     non-scalar variables) available in Python.
   
+  * `5_Branching/` - Provides a treament of some of the common branching statements 
+    available in Python, which allows script execution to change depending on certain 
+    conditions.
+  
   * [...]
 
 Note that the contents of this course are best viewed in your browser (in fact, directly 
