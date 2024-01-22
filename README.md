@@ -41,11 +41,17 @@ following sub-directories
   * `0_Introduction/` - Provides a course introduction, including defining the goals 
     and approach.
   
-  * `1_Setup` - Provides instructions on how to get set up with a Python interpreter and 
+  * `1_Setup/` - Provides instructions on how to get set up with a Python interpreter and 
     editor. Also speaks to the intended workflow to be applied throughout the course.
   
-  * `2_Hello_World` - Provides the classical and to-be-expected Hello World introduction
+  * `2_Hello_World/` - Provides the classical and to-be-expected Hello World introduction
     to writing and executing your first Python script.
+  
+  * `3_Variables/` - Provides a treatment of variables (specifically scalars) in Python, 
+    including some details on type, casting, and logic.
+  
+  * `4_Structures/` - Provides a treatment of some of the key data structures (roughly
+    non-scalar variables) available in Python.
   
   * [...]
 
