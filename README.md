@@ -56,7 +56,7 @@ following sub-directories
   * [...]
 
 Note that the contents of this course are best viewed in your browser (in fact, directly 
-from within this GiHub repository!). The intent is that all you should need to interact
+from within this GitHub repository!). The intent is that all you should need to interact
 with are the provided Markdown (`.md`) and Python (`.py`) files.
 
 --------
