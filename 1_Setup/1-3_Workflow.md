@@ -27,5 +27,6 @@ For Windows users, this workflow might be illustrated as below
 
 ![Python_Windows_workflow](assets/Python_Windows_workflow.png)
 
-For Linux users, the workflow will look essentially identical (so from now on, only the 
-Windows examples will be illustrated).
+For Linux users, the workflow will look essentially identical, so from now on only the 
+Windows examples will be illustrated. It ultimately shouldn't matter; Python is what's 
+called a *write once, run anywhere* language, so a Python script is a Python script.

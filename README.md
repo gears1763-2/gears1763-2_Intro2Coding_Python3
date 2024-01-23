@@ -72,7 +72,14 @@ with are the provided Markdown (`.md`) and Python (`.py`) files.
 
 ## Key Features
 
-  * [...]
+  * Includes instruction on getting set up with an interpreter, an editor, and a simple,
+    no nonsense workflow. You'll be actually using Python from the very start.
+  
+  * Teaches by way of immersion, with illustrative examples that focus on the "core" of 
+    Python that is used over and over again.
+  
+  * Content is broken down into a logical sequence of bite-sized lessons, with each 
+    including a working example and a consolidation summary.
 
 --------
 
