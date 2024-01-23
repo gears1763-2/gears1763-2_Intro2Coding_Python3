@@ -57,6 +57,10 @@ following sub-directories
     available in Python, which allows script execution to change depending on certain 
     conditions.
   
+  * `6_Looping/` - Provides a treatment of some common looping statements available in 
+    Python, which allows for implementing repetitive operations using a concise
+    notation.
+  
   * [...]
 
 Note that the contents of this course are best viewed in your browser (in fact, directly 
