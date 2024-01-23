@@ -178,3 +178,5 @@ From this quick lesson, you should have picked up the following bits of knowledg
   
   * You can use the `continue` statement to skip a loop iteration and immediately
     continue to the next.
+  
+  * You can indexing into, and slice, Python strings!

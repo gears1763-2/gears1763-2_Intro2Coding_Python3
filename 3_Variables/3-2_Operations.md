@@ -28,7 +28,8 @@ mathematics and programming, and that is the modulus operator.
 
   * `x % y` performs the integer division of `x` by `y` and returns the remainder 
     (remember long division from ye olde elementary school days?). This may seem silly 
-    and of little use, but it is in fact often quite useful in programming!
+    and of little use, but it is in fact often quite useful in programming! For example, 
+    if `x % y` returns 0, then `x` is divisible by `y`.
 
 ### Minimal Working Example
 
@@ -58,6 +59,7 @@ you can make sense of the cause(s). Don't worry if it doesn't make much sense at
 point!
 
 --------
+
 
 ## Consolidation 
 

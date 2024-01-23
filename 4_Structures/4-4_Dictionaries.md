@@ -73,6 +73,7 @@ whatever you want and fill them with whatever you wish), and then experiment wit
 
 --------
 
+
 ## Consolidation 
 
 From this quick lesson, you should have picked up the following bits of knowledge:  

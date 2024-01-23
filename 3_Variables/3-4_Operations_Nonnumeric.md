@@ -69,6 +69,7 @@ What about `"PAY" + 1`? ... it's total nonsense, isn't it?
 
 --------
 
+
 ## Consolidation 
 
 From this quick lesson, you should have picked up the following bits of knowledge:  

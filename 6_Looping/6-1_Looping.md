@@ -207,6 +207,6 @@ From this quick lesson, you should have picked up the following bits of knowledg
     of a `list`.
   
   * You can use generators and comprehensions to quickly (and concisely) initialize a 
-    `list`, even one with non-trivial membership conditions.
+    `list`, even one with non-trivial membership criteria.
   
   * You can combine branching and looping statements together.

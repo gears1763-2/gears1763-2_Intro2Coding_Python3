@@ -133,6 +133,7 @@ complex logic, try to use the provided truth tables to anticipate the outcome (i
 
 --------
 
+
 ## Consolidation 
 
 From this not-so-quick lesson (sorry, but it's really important!), you should have
