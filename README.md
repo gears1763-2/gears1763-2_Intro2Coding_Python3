@@ -64,6 +64,9 @@ following sub-directories
   * `7_Input_Output/` - Provides a treatment of some basic input/output, including 
     keyboard input, file read/write, and data persistence (by way of `pickle`).
   
+  * `8_Functions/` - Provides a (very minimal!) treatment of functions, specifically how 
+    to define your own custom functions.
+  
   * [...]
 
 Note that the contents of this course are best viewed in your browser (in fact, directly 
