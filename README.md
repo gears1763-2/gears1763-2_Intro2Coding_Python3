@@ -9,14 +9,14 @@ popular in the world.
 
 This course will cover getting set up with a Python environment in the OS of your
 choice (Windows and Linux will be covered), as well as making using of the Python
-package installer pip in order to leverage the sprawling ecosystem of third-party
+package installer pip in order to leverage the sprawling ecosystem of third party
 libraries.  
 
 Once set up, the basics of using Python will be taught by way of example.
 In doing so, the student will gain an initial exposure to some of the more commonly
 applied elements of the Python Standard Library. Finally, once an initial exposure has
 been completed, the student will begin to experiment with writing their own Python
-functions. after that, the possibilities are endless!
+functions. After that, the possibilities are endless!
 
 Ref: <https://www.facebook.com/events/1160053508309185/>
 
