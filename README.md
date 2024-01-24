@@ -61,6 +61,9 @@ following sub-directories
     Python, which allows for implementing repetitive operations using a concise
     notation.
   
+  * `7_Input_Output/` - Provides a treatment of some basic input/output, including 
+    keyboard input, file read/write, and data persistence (by way of `pickle`).
+  
   * [...]
 
 Note that the contents of this course are best viewed in your browser (in fact, directly 
