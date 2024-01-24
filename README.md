@@ -65,9 +65,11 @@ following sub-directories
     keyboard input, file read/write, and data persistence (by way of `pickle`).
   
   * `8_Functions/` - Provides a (very minimal!) treatment of functions, specifically how 
-    to define your own custom functions.
+    to define your own custom functions. *This section is pretty bare bones; I want to 
+    expand on it (a lot), but don't have time right now!*
   
-  * [...]
+  * `9_Third_Party_Libs/` - Provides a treatment of some popular third party libraries, 
+    including how to use `pip` to install them.
 
 Note that the contents of this course are best viewed in your browser (in fact, directly 
 from within this GitHub repository!). The intent is that all you should need to interact
